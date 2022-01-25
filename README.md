@@ -33,6 +33,7 @@ An Telegram Bot By [@AsmSafone](https://t.me/AsmSafone) To Stream Videos in Tele
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
 
+https://heroku.com/deploy
 
 ## Commands (Set In Botfather)
 ```sh
